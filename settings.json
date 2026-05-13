@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "roberlandia.aternos.me",
+    "ip": "roberlandia.aternos.me:40763",
     "port": 40763,
     "version": "26.1.2",
     "try-creative": false
